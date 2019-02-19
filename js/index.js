@@ -3,3 +3,4 @@ var element = document.createElement('div');//this file is optional
 element.innerHTML = 'Hello, World!';
 element.style.backgroundColor = '#f9f9f9';
 document.body.appendChild(element);
+element.style.textAlign = 'center';
